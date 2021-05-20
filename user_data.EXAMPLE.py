@@ -1,5 +1,4 @@
 #
-# Streamlined class of umqttsimple for micropython
 # US Naval Academy
 # Robotics and Control TSD
 # Patrick McCorkell
